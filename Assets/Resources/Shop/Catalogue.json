@@ -1,0 +1,126 @@
+{
+    
+    "shopItems":  [
+        {
+            "id": "ca502a64-41cd-435f-a8da-0f216e1d6bee",
+            "name": "Bright",
+            "description": "A bright theme",
+            "type": 0,
+            "price": 5,
+            "image": "Bright"
+        },
+        {
+            "id": "4c5c0e83-c7bc-46d0-8682-38b9c157e45e",
+            "name": "Microsoft",
+            "description": "Not stolen™",
+            "type": 0,
+            "price": 10,
+            "image": "Microsoft"
+        },
+        {
+            "id": "019f7fad-fc02-43d2-992a-fa10f7a476e7",
+            "name": "Themey",
+            "description": "Some random colours",
+            "type": 0,
+            "price": 10,
+            "image": "Themey"
+        },
+        {
+            "id": "067e1f5a-094a-4e88-a591-e2ca7879eff7",
+            "name": "Music 1",
+            "description": "Something ♪ Music ♪",
+            "type": 1,
+            "price": 7,
+            "image": "star"
+        },
+        {
+            "id": "749282bb-4eee-4e9f-8f7a-a013047a3dc4",
+            "name": "Music 2",
+            "description": "Enjoy your shoe music",
+            "type": 1,
+            "price": 6,
+            "image": "shoe"
+        },
+        {
+            "id": "dd5ddf09-e339-44da-8571-0a711007a55f",
+            "name": "Level 1",
+            "description": "Another shoe level",
+            "type": 2,
+            "price": 7,
+            "image": "shoe"
+        },
+        {
+            "id": "bc910d83-34bc-410f-90fb-f15a731c0334",
+            "name": "Rock",
+            "description": "Get your pet Rock",
+            "type": 2,
+            "price": 4,
+            "image": "rock"
+        },
+        {
+            "id": "5302c773-493c-4448-84a6-ad77550f0f50",
+            "name": "RockRock",
+            "description": "Get your pet RockRock",
+            "type": 2,
+            "price": 5,
+            "image": "rock"
+        },
+        {
+            "id": "02a71c20-577f-4e47-a4f4-b2f8f3be2657",
+            "name": "RockRockRock",
+            "description": "Get your pet RockRockRock",
+            "type": 3,
+            "price": 5,
+            "image": "rock"
+        },
+        {
+            "id": "574d2e50-2d60-4383-b8b5-ff3367d0816a",
+            "name": "Clock1",
+            "description": "What time is it?",
+            "type": 3,
+            "price": 50,
+            "image": "clock"
+        },
+        {
+            "id": "44e2154e-49b6-4370-86e5-47a5539080d3",
+            "name": "Clock2",
+            "description": "What time is it again?",
+            "type": 3,
+            "price": 50,
+            "image": "clock"
+        },
+        {
+            "id": "5749d898-ee52-4d00-a272-d1cb7d8c194e",
+            "name": "Tree1",
+            "description": "An ordinary Tree1",
+            "type": 3,
+            "price": 10,
+            "image": "tree"
+        },
+        {
+            "id": "fa79eb4a-e53f-4968-a1ce-67213a00a840",
+            "name": "Tree2",
+            "description": "An ordinary Tree2",
+            "type": 3,
+            "price": 10,
+            "image": "tree"
+        },
+        {
+            "id": "b6ac9a1b-8502-4cc4-a2be-1250f991db8d",
+            "name": "Tree3",
+            "description": "An ordinary Tree3",
+            "type": 3,
+            "price": 10,
+            "image": "tree"
+        },
+        {
+            "id": "786bdf48-e3a9-4f10-81b9-f971ae8abec0",
+            "name": "Pogo Stick",
+            "description": "To jump the highest",
+            "type": 3,
+            "price": 1,
+            "image": "pogo"
+        }
+    ]
+
+}

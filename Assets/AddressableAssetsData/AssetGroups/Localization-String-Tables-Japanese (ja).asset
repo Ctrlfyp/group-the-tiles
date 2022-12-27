@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Japanese (ja)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Japanese (ja)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 58f32b6844795ac49b35c84a98c7b054
+  m_SerializeEntries:
+  - m_GUID: 31f3050e59af43c4db8aa1db6a530758
+    m_Address: UI_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    - Preload
+  - m_GUID: 56c3cabe9aab58245b8431bc2229c337
+    m_Address: UIMainMenu_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    - Preload
+  - m_GUID: 434330ad12215104595687c0bb8c2ba8
+    m_Address: UIGame_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    - Preload
+  - m_GUID: 18e649f1bf81cef4b93fe3d81c3ac5f9
+    m_Address: UILevelSelect_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: cf7954256983caa4ba5898f40d642b4f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9b12794dd2894ad43a2d0c03f3ffe574, type: 2}
+    - {fileID: 11400000, guid: 62c7392b43a46274f9d0be36c9654b43, type: 2}

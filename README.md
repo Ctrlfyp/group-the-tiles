@@ -1,2 +1,2 @@
-# group-the-tiles
-Diving the tiles
+# project-mars
+Project Mars

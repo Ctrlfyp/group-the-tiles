@@ -1,0 +1,147 @@
+{
+  "id": "53",
+  "gameMode": 2,
+  "totalTime": 60,
+  "totalMoves": 10,
+  "totalColours": 2,
+  "difficultyScoreRequired": {
+    "1": 120,
+    "2": 390,
+    "3": 600
+  },
+  "board": {
+    "size": {
+      "x": 3.0,
+      "y": 5.0
+    },
+    "gameBoardShape": 0,
+    "setFirstRowBias": false,
+    "serializedTiles": [
+      {
+        "location": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 1.0,
+          "y": 0.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 2.0,
+          "y": 0.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 2.0,
+          "y": 1.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 0.0,
+          "y": 1.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 0.0,
+          "y": 2.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 1.0,
+          "y": 2.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 2.0,
+          "y": 2.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 2.0,
+          "y": 3.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 1.0,
+          "y": 3.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 0.0,
+          "y": 3.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 0.0,
+          "y": 4.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 1.0,
+          "y": 4.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 2.0,
+          "y": 4.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      }
+    ]
+  },
+  "restrictions": {
+    "groupOperator": 0,
+    "negated": false,
+    "restrictions": []
+  }
+}

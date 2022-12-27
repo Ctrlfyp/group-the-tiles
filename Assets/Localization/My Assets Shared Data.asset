@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: My Assets Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 4a530aa300d9a834292e45ae9725e21c
+  m_Entries:
+  - m_Id: 14169905976369152
+    m_Key: BackButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14165946066853888
+    m_Key: EarnButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159728709632
+    m_Key: PlayButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2689686745088
+    m_Key: QuitButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2651187228672
+    m_Key: SettingsButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14166215412473856
+    m_Key: StoreButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14459802129850368
+    m_Key: YesButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14459822753243136
+    m_Key: NoButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14995252353085440
+    m_Key: BackButto
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1639169728964

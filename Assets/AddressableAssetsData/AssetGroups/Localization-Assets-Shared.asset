@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7bd0f7cf8997b5c42806c6f128f1f644
+  m_SerializeEntries:
+  - m_GUID: 4a530aa300d9a834292e45ae9725e21c
+    m_Address: Assets/Localization/My Assets Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 366fcb091aa94a440b32b1ca1bd9a427
+    m_Address: Assets/Localization/UISettings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 7ba202371d165be43be63da89333339a
+    m_Address: Assets/Localization/UIGame Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: e3c4e4facc7a48344b85aafb07436915
+    m_Address: Assets/Localization/UI/LevelSelect/UILevelSelect Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: cf7954256983caa4ba5898f40d642b4f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 73562b0eba7d55a4fa5b8ab602f3aa08, type: 2}
+    - {fileID: 11400000, guid: cd89593a5bbbb434b8ca9ceb0f9c9915, type: 2}

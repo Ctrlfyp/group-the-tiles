@@ -1,0 +1,275 @@
+{
+  "id": "72",
+  "gameMode": 0,
+  "totalTime": 60,
+  "totalMoves": 8,
+  "totalColours": 2,
+  "difficultyScoreRequired": {
+    "1": 140,
+    "2": 455,
+    "3": 700
+  },
+  "board": {
+    "size": {
+      "x": 5.0,
+      "y": 7.0
+    },
+    "gameBoardShape": 0,
+    "setFirstRowBias": false,
+    "serializedTiles": [
+      {
+        "location": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 2.0,
+          "y": 3.0
+        },
+        "colourIndex": 0,
+        "tileType": 4
+      },
+      {
+        "location": {
+          "x": 1.0,
+          "y": 0.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 2.0,
+          "y": 1.0
+        },
+        "colourIndex": 0,
+        "tileType": 4
+      },
+      {
+        "location": {
+          "x": 3.0,
+          "y": 1.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 3.0,
+          "y": 0.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 4.0,
+          "y": 0.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 4.0,
+          "y": 1.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 0.0,
+          "y": 1.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 0.0,
+          "y": 2.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 1.0,
+          "y": 2.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 2.0,
+          "y": 2.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 3.0,
+          "y": 2.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 4.0,
+          "y": 2.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 4.0,
+          "y": 3.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 3.0,
+          "y": 3.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 1.0,
+          "y": 3.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 0.0,
+          "y": 3.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 0.0,
+          "y": 4.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 0.0,
+          "y": 5.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 1.0,
+          "y": 5.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 2.0,
+          "y": 5.0
+        },
+        "colourIndex": 0,
+        "tileType": 4
+      },
+      {
+        "location": {
+          "x": 3.0,
+          "y": 5.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 4.0,
+          "y": 5.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 4.0,
+          "y": 4.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 4.0,
+          "y": 6.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 3.0,
+          "y": 6.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 2.0,
+          "y": 6.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 1.0,
+          "y": 6.0
+        },
+        "colourIndex": 0,
+        "tileType": 0
+      },
+      {
+        "location": {
+          "x": 0.0,
+          "y": 6.0
+        },
+        "colourIndex": 1,
+        "tileType": 0
+      }
+    ]
+  },
+  "restrictions": {
+    "groupOperator": 0,
+    "negated": false,
+    "restrictions": []
+  }
+}

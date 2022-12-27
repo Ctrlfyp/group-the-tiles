@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4504564837484640435
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 885422192254958815}
+  - component: {fileID: 3313773674561416565}
+  m_Layer: 0
+  m_Name: SoundBoard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &885422192254958815
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4504564837484640435}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 77.754395, y: 111.477905, z: -715.961}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3313773674561416565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4504564837484640435}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a904ccc47713eed45aabae8d4b6c3e5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OnHover: {fileID: 8300000, guid: 7a41e1e2dea02ba419845ecb2cda2d25, type: 3}
+  OnClick: {fileID: 8300000, guid: 44991006043e2b642b39b91800377c3a, type: 3}
+  SliderTick: {fileID: 8300000, guid: 28ecf1a5da7c5e2429a01eb04f2940a1, type: 3}
+  Draw: {fileID: 8300000, guid: b8f467b622fb7924fbb26f23d22d6432, type: 3}
+  MenuAppear: {fileID: 8300000, guid: 54db9a4d268c3484089ce100d8ee5cce, type: 3}
+  MenuDisappear: {fileID: 8300000, guid: 97b4cd10805199c4ab50dbca59590ea5, type: 3}
+  Purchase: {fileID: 8300000, guid: 5ad90752c6e2bb344a8285f54c64c25a, type: 3}
+  Win: {fileID: 8300000, guid: 82bef6284313aa84e9d372f909994d7d, type: 3}
+  WinCounter: {fileID: 8300000, guid: b6602bd4e8d19e44687892fc42ab28b1, type: 3}
+  Lose: {fileID: 8300000, guid: 79e4438454ea7554eb1d001ce233db1f, type: 3}
+  Spawn: {fileID: 8300000, guid: e0a7e55da1e0c4b46b2e95a1f7a6e76d, type: 3}
+  Divide: {fileID: 8300000, guid: 5fc2a32616f40004986dbd0855610b83, type: 3}
+  SubmitSingle: {fileID: 8300000, guid: d1a79e80327ee174bb0b5ff6f3aaa727, type: 3}
+  SubmitMulti: {fileID: 8300000, guid: c8dedb9cf0d2f014594b9ed0a2a6a26c, type: 3}
+  SubmitLine: {fileID: 8300000, guid: e6f9a6dbcbd2276448887953b625e1cd, type: 3}
+  SubmitBomb: {fileID: 8300000, guid: 54c54d7ed53ca104fb6b1a4e0dac9b14, type: 3}
+  Timer: {fileID: 8300000, guid: 9bd385f567fb516479b4ea811628eb37, type: 3}
+  TimeOut: {fileID: 8300000, guid: 43563144b59cac1439688eb7ae6a0e79, type: 3}
+  Bomb: {fileID: 8300000, guid: bd1fd059372048c4a8542f774d29667b, type: 3}
+  Combo1: {fileID: 8300000, guid: ecd2c87167e08504a804e748ef5664de, type: 3}
+  Combo2: {fileID: 8300000, guid: e5dfb1ca5be14c14ab9cb65c86c52554, type: 3}
+  Combo3: {fileID: 8300000, guid: 1dc4f7282bd2502448afa6e36b1430c0, type: 3}
+  Combo4: {fileID: 8300000, guid: 8ceed28a3b7ae86449fe998b38b6478c, type: 3}
+  Combo5: {fileID: 8300000, guid: 406b90a55a0751a4fbcd62a13cf88f9e, type: 3}
+  Line: {fileID: 8300000, guid: e0519947225b2394ca649549d27faefd, type: 3}
+  Select1: {fileID: 8300000, guid: 6ff35e8079d2ba24e90eea842034a891, type: 3}
+  Select2: {fileID: 8300000, guid: 5b2b44f0afa931840984c09eb86d069b, type: 3}

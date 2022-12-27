@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UISettings_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 366fcb091aa94a440b32b1ca1bd9a427, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7431839744
+    m_Localized: Master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50477981696
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76042264576
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100801241088
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129322508288
+    m_Localized: Theme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2091170455552
+    m_Localized: You earned {0} stars!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2506532380672
+    m_Localized: '{0} bought for {1} stars'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2682319855616
+    m_Localized: 'Stars: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3275201503232
+    m_Localized: Store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422383824896
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24104299716608
+    m_Localized: Are you sure you want to buy this?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24133227831296
+    m_Localized: Not enough stars
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UIGame Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UIGame
+  m_TableCollectionNameGuidString: 7ba202371d165be43be63da89333339a
+  m_Entries:
+  - m_Id: 7092101120
+    m_Key: InfoMovesLeft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39950278656
+    m_Key: InfoScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4351440123506688
+    m_Key: InfoTimeRemaining
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8446639416598528
+    m_Key: GameOverPointsMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8453665215537152
+    m_Key: GameOveStarsMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8454091960803328
+    m_Key: GameOverBuyStarMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8454121182519296
+    m_Key: GameOverNoCurrencyMessage
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1642719669898

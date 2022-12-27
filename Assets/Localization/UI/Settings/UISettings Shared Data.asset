@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UISettings Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UIMainMenu
+  m_TableCollectionNameGuidString: 366fcb091aa94a440b32b1ca1bd9a427
+  m_Entries:
+  - m_Id: 7431839744
+    m_Key: SettingsVolumeMasterLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50477981696
+    m_Key: SettingsVolumeGameLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76042264576
+    m_Key: SettingsVolumeMusicLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100801241088
+    m_Key: SettingsLanguageLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129322508288
+    m_Key: SettingsThemeLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2091170455552
+    m_Key: MainMenuRewardEarnedMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2506532380672
+    m_Key: StoreBoughtDialogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2682319855616
+    m_Key: StoreCurrencyLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3275201503232
+    m_Key: StoreTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422383824896
+    m_Key: SettingsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24104299716608
+    m_Key: StoreBuyConfirmDialogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24133227831296
+    m_Key: StoreBuyPoorDialogue
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1642615448619
