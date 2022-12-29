@@ -19,10 +19,15 @@ This project is developed and tested in [Unity 2020.3](https://unity.com/release
 
 ## Gameplay
 
-To group tiles, simply click and drag to form a group of tiles that match each other in colour and size. Then, find another group of tiles with the same characteristics and repeat the process until you are satisfied with your selection. You can then lock it in by right clicking or pressing enter. Your score will then be calculated and new tiles will be randomly regenerated.
-
 <div align="center">
 <img src="https://playritus.b-cdn.net/assets/redux/grouping.gif">
+</div>
+
+To group tiles, simply click and drag to form a group of tiles that match each other in colour and size. Then, find another group of tiles with the same characteristics and repeat the process until you are satisfied with your selection.
+You can then lock it in by right clicking or pressing enter and watch the tiles clear and chain. Your score will then be calculated and new tiles will be randomly regenerated.
+
+<div align="center">
+<img src="https://playritus.b-cdn.net/assets/redux/chain.gif">
 </div>
 
 
